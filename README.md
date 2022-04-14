@@ -1,2 +1,0 @@
-# PremiumSih
-Nye Nye
