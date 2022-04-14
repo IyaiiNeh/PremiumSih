@@ -16,4 +16,6 @@ $ git clone https://github.com/IyaiiNeh/PremiumSih
 
 $ cd Premiumig
 
+$ git pull
+
 $ python2 Zpedia.py
