@@ -14,7 +14,7 @@ $ git clone https://github.com/IyaiiNeh/PremiumSih
 
       Pake toolsnya :
 
-$ cd Premiumig
+$ cd PremiumSih
 
 $ git pull
 
